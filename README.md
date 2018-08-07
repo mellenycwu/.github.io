@@ -1,2 +1,2 @@
 # .github.io
-Learning How to Code at the Library 
+Learning Lab
